@@ -1,0 +1,5 @@
+package com.atachagua.ms.evaluation.training.service.exception;
+
+public class ExceptionService {
+
+}

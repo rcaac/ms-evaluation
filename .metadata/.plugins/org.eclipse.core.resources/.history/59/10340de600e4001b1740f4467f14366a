@@ -1,0 +1,5 @@
+package com.atachagua.ms.evaluation.training.entity;
+
+public class Training {
+
+}

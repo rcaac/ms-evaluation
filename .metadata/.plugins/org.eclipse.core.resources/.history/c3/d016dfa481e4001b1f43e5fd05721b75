@@ -1,0 +1,5 @@
+package com.atachagua.ms.evaluation.experience.repository;
+
+public interface ExperienceRepository {
+
+}

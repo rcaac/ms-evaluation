@@ -1,0 +1,13 @@
+package com.atachagua.ms.evaluation.skill;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsEvaluationSkillApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsEvaluationSkillApplication.class, args);
+	}
+
+}

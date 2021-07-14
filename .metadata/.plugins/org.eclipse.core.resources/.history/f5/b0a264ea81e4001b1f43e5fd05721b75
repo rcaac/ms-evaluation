@@ -1,0 +1,5 @@
+package com.atachagua.ms.evaluation.skill.repository;
+
+public interface SkillRepository {
+
+}

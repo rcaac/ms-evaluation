@@ -1,0 +1,13 @@
+package com.atachagua.ms.evaluation.eureka;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsEvaluationEurekaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsEvaluationEurekaApplication.class, args);
+	}
+
+}

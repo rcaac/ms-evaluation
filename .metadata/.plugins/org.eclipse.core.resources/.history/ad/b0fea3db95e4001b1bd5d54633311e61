@@ -1,0 +1,13 @@
+package com.atachagua.ms.evaluation.zuul;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsEvaluationZuulApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsEvaluationZuulApplication.class, args);
+	}
+
+}
